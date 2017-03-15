@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ch05_TipCalculator</string>
+    <string name="tip_percent_label">Tip Percent</string>
+    <string name="tip_percent_amount">0%</string>
+    <string name="apply">Apply</string>
+    <string name="tip_amount_label">Tip Amount</string>
+    <string name="tip_amount">$0.00</string>
+    <string name="total_amount_label">Total Amount</string>
+    <string name="total_amount">$0.00</string>
+</resources>
